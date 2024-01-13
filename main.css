@@ -316,7 +316,7 @@ body {
 
 @media (max-width: 430px) {
   .ts-contact-wrapper {
-    width: 300px;
+    width: 330px; 
   }
 
   .ts-contact-wrapper .ts-phone {
