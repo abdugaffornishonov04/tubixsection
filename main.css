@@ -270,6 +270,15 @@ body {
     align-items: center;
     justify-content: center;
   }
+
+  .ts-address-video {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 280px;
+    padding-bottom: 15px;
+    position: fixed;
+  }
 }
 
 @media (max-width: 1050px) {
@@ -316,7 +325,7 @@ body {
 
 @media (max-width: 430px) {
   .ts-contact-wrapper {
-    width: 330px; 
+    width: 330px;
   }
 
   .ts-contact-wrapper .ts-phone {
